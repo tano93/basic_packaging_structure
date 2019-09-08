@@ -1,0 +1,4 @@
+this file got included by adding the command "include example_pkg/data/exampledata.txt" in the MANIFEST.in file
+second line
+here comes the third one
+line number four
