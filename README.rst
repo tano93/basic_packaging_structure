@@ -1,4 +1,6 @@
-README for the example package
+
+example package
+===============
 
 This is an example package that provides basic structure that belongs to an installable python package.
 In contrast to many other examples this package also shows how to:
